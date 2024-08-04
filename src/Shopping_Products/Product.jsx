@@ -1,5 +1,6 @@
 import data from '../data.json'
-import Products from './products'
+// import Products from './Products'
+import Products from './Products';
 import { useState } from 'react'
 const Product = () => {
 

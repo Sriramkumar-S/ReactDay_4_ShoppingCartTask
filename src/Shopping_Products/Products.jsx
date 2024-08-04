@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import PropTypes from "prop-types";
-import "./products.css";
+import './Product.css'
 
 const Products = ({
     id, productName, productImage, productPrice, isForSale, buyOptions, discount, customerReviews, handleAddToCart, handleRemoveFromCart, isAddedToCart
