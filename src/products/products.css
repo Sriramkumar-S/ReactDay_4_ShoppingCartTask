@@ -1,0 +1,21 @@
+.strike {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+.cards {
+     height: 65vh !important;
+}
+.sale {
+    color: #fff;
+    background: #000;
+    width: fit-content;
+    padding: 3px;
+    border-radius: 5px;
+    margin: 5px;
+    position: absolute;
+    left: 85%;
+}
+.bolder {
+    font-weight: bolder !important;
+    font-size: 64px !important;
+}

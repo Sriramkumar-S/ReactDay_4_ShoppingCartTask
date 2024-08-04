@@ -1,0 +1,120 @@
+[
+    {
+        "productId": 1,
+        "productName": "Fancy Product",
+        "productImage": "https://img.freepik.com/free-photo/laptop-with-colorful-screen-white-background-3d-rendering_1142-58703.jpg?",
+        "buyOptions": {
+            "viewOptions": true,
+            "priceRange": {
+                "minPrice": 40.00,
+                "maxPrice": 80.00
+            }
+        },
+        "discount": {
+            "discountAvailable": false
+        },
+        "isForSale": false
+    },
+    {
+        "productId": 2,
+        "productName": "Special Item",
+        "productImage": "https://img.freepik.com/free-photo/laptop-with-colorful-screen-white-background-3d-rendering_1142-58703.jpg?",
+        "productPrice": 20.00,
+        "buyOptions": {
+            "viewOptions": false
+        },
+        "discount": {
+            "discountAvailable": true,
+            "discountPrice": 18.00
+        },
+        "customerReviews": true,
+        "isForSale": true
+    },
+    {
+        "productId": 3,
+        "productName": "Sale Item",
+        "productImage": "https://img.freepik.com/free-photo/laptop-with-colorful-screen-white-background-3d-rendering_1142-58703.jpg?",
+        "productPrice": 50.00,
+        "buyOptions": {
+            "viewOptions": false
+        },
+        "discount": {
+            "discountAvailable": false,
+            "discountPrice": 25.00
+        },
+        "isForSale": true
+    },
+    {
+        "productId": 4,
+        "productName": "Popular Item",
+        "productImage": "https://img.freepik.com/free-photo/laptop-with-colorful-screen-white-background-3d-rendering_1142-58703.jpg?",
+        "productPrice": 40.00,
+        "buyOptions": {
+            "viewOptions": false
+        },
+        "customerReviews": true,
+        "discount": {
+            "discountAvailable": false
+        },
+        "isForSale": false
+    },
+    {
+        "productId": 5,
+        "productName": "Sale Item",
+        "productImage": "https://img.freepik.com/free-photo/laptop-with-colorful-screen-white-background-3d-rendering_1142-58703.jpg?",
+        "productPrice": 50.00,
+        "buyOptions": {
+            "viewOptions": false
+        },
+        "discount": {
+            "discountAvailable": true,
+            "discountPrice": 25.00
+        },
+        "isForSale": true
+    },
+    {
+        "productId": 6,
+        "productName": "Fancy Product",
+        "productImage": "https://img.freepik.com/free-photo/laptop-with-colorful-screen-white-background-3d-rendering_1142-58703.jpg?",
+        "buyOptions": {
+            "viewOptions": true,
+            "priceRange": {
+                "minPrice": 120.00,
+                "maxPrice": 280.00
+            }
+        },
+        "discount": {
+            "discountAvailable": false
+        },
+        "isForSale": false
+    },
+    {
+        "productId": 7,
+        "productName": "Special Item",
+        "productImage": "https://img.freepik.com/free-photo/laptop-with-colorful-screen-white-background-3d-rendering_1142-58703.jpg?",
+        "productPrice": 20.00,
+        "customerReviews": true,
+        "buyOptions": {
+            "viewOptions": false
+        },
+        "discount": {
+            "discountAvailable": true,
+            "discountPrice": 18.00
+        },
+        "isForSale": true
+    },
+    {
+        "productId": 8,
+        "productName": "Popular Item",
+        "productImage": "https://img.freepik.com/free-photo/laptop-with-colorful-screen-white-background-3d-rendering_1142-58703.jpg?",
+        "customerReviews": true,
+        "productPrice": 40.00,
+        "discount": {
+            "discountAvailable": false
+        },
+        "buyOptions": {
+            "viewOptions": false
+        },
+        "isForSale": false
+    }
+]
